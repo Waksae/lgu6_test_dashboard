@@ -1,1 +1,1 @@
-# lgu6_test_dashboard
+# lgu6_stock_dashboard
